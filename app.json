@@ -1,0 +1,7 @@
+{
+    "name": "Pipedrive->Slack notifications",
+    "description": "A custom notifications app for transforming Pipedrive CRM JSON into Slack format",
+    "repository": "https://github.com/mkushner/em_slack_notifications",
+    "keywords": ["slack", "pipedrive", "notifications"]
+  }
+  
