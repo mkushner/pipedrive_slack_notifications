@@ -9,6 +9,7 @@ app = Flask(__name__)
 def respond():
     
     print(request.json)
+    print(request.headers)
     k = request.json
 
     # put up-to-date keys for parsing from Pipedrive JSON
